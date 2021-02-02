@@ -8,7 +8,7 @@
 
 | Name          |            Page       |
 | ------------- | ------------- |
-| Read: lab 01 | [read](Read:lab01.md) |
+| Read: lab 01 | [read](Read_lab01.md) |
 | Lab: 02a | [lab](Lab:02a.md) |
 | Read: 02a | [read](Read:02a.md) |
 | Read: 02b | [read](Read:02b.md) |
