@@ -10,5 +10,7 @@
 | ------------- | ------------- |
 | Read: lab 01 | [Click](Read:lab01.md) |
 | Lab: 02a | [Click](Lab:02a.md) |
+| Read: 02a | [Click](Read:02a.md) |
+| Read: 02b | [Click](Read:02b.md) |
 
 
