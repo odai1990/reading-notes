@@ -30,12 +30,21 @@ It is a way to make you more success and give you a proper way to deal with prob
 
 2. Obstacles : when you face a Obstacle not just leave or ignore it, just be focus and try to overcome it. don't let anything disturb you.
 
+*for my i always take a deep breath when i face Obstacle and no not ignore it and face it.*
+
 3. Effort : i want you to remember anything you do and how much you push yourself hard you will get what you want, it is not easy word.
+
+*i have worked 3 jobs to just get a good job opportunity.*
 
 4. Criticism : make any Criticism like something push you to make more because any Criticism you get you must believe you are doing good.
 
+*always get Criticism but i don't care i now i'm in the right way.*
+
 5. Success of others : don't feel jealous but see how these these people how done it and learn.
 
+***all what i have mention i allyws keep
 
 ***I want you not just follow these steps just in work only but in life***
 
+
+**My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a freelance developer, i have knowledge with php, mysql, reactjs, nodejs,socket.io,mongodb.** [You can visit my profile here](https://github.com/odai1990)
