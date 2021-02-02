@@ -37,7 +37,7 @@ A command line, or terminal, is a text based interface to the system you use it 
 
 for ex:
 1. pwd:  to return currant path.
-2. ls: waht is in currant folder.
-3. cd: for move between folders.
-4. touch : to create a file.
+1. ls: waht is in currant folder.
+1. cd: for move between folders.
+1. touch : to create a file.
 and lot more...
