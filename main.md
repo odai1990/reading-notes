@@ -12,6 +12,7 @@
 | Lab: 02a | [lab](Lab_02a.md) |
 | Read: 02a | [read](Read_02a.md) |
 | Read: 02b | [read](Read_02b.md) |
+| Read: 03 | [read](Read_03.md) |
 
 
 
