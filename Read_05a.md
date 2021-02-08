@@ -47,7 +47,7 @@
 
 <br/>
 
-## ***You can assgine functions***
+## ***You can assign functions***
 ```
 var x=functionName()
 
