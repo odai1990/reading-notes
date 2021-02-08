@@ -64,7 +64,7 @@
  > ![img](assesst/rrrrrrwwww.png)
 
  * while : we use it when we not know who will repeat the statements 
- > 
+ 
  ``` 
 
   while(condition)
@@ -75,7 +75,7 @@
  ```
 
  * do while : same with while but will execute statement at lest once even condition is false
- >
+ 
  ``` 
   do
  {
