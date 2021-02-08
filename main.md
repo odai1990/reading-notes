@@ -34,6 +34,8 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [Html](Read_03.md) 
 * [Javascript_part_1](Read_3.md) 
 * [Javascript_part_2](Read_4.md) 
+* [Javascript_part_3](Read_05a.md) 
+* [Css](Read_05b.md) 
 
 <!-- * Read: lab 01 | [read](Read_lab01.md) |
 * Lab: 02a | [lab](Lab_02a.md) |
