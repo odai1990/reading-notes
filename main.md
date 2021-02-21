@@ -52,6 +52,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [Html-link-Layout&Functions, Methods, and Objects](class-04.md) 
 * [Html-Text-Color-Image](class-05.md) 
 * [Object-Literals](class-06.md) 
+* [Tables, Functions, Methods, and Objects](class-07.md) 
 
 
 
