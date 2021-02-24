@@ -55,6 +55,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [Tables, Functions, Methods, and Objects](class-07.md) 
 * [Layout](class-08.md) 
 * [Forms,Lists, Tables,Events](class-09.md) 
+* [JavaScript book, Ch. 10, “Error Handling & Debugging](class-10.md) 
 
 
 
