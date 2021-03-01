@@ -58,6 +58,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [JavaScript book, Ch. 10, “Error Handling & Debugging](class-10.md) 
 * [image,Practical Information,Flash](class-11.md) 
 * [Chart.js, Canvas](class-12.md) 
+* [Localstorage](class-13.md) 
 
 
 
