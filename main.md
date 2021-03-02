@@ -59,3 +59,4 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [image,Practical Information,Flash](class-11.md) 
 * [Chart.js, Canvas](class-12.md) 
 * [Localstorage](class-13.md) 
+* [CSS Transitions & Animations & Transforms](class-14.md) 
