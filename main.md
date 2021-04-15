@@ -63,10 +63,9 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [What Google Learned About Teams](class-14b.md) 
 
 
-# welcome to course 301:
+## Class-301
 
-## in this section we talked about sql api and nodejs and then we learn how about connect to git and github
+### Table of content
 
- read1[click](read1.md)
-
-  read2[click](read2.md) 
+ * [Responsive](read1.md)
+ * [JQuery](read2.md) 
