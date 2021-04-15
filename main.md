@@ -61,3 +61,12 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [Localstorage](class-13.md) 
 * [CSS Transitions & Animations & Transforms](class-14.md) 
 * [What Google Learned About Teams](class-14b.md) 
+
+
+# welcome to course 301:
+
+## in this section we talked about sql api and nodejs and then we learn how about connect to git and github
+
+ read1[click](read1.md)
+
+  read2[click](read2.md) 
