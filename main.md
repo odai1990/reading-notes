@@ -25,7 +25,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 <br/>
 
 
-## Class-102
+## Code 102 - Intro to Software Development
 
 ### Table of content
 
@@ -41,7 +41,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [Css](Read_05b.md) 
 
 
-## Class-201
+## Code 201 - Foundations of Software Development
 
 ### Table of content
 
@@ -63,7 +63,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
 * [What Google Learned About Teams](class-14b.md) 
 
 
-## Class-301
+## Code 301 - Intermediate Software Development
 
 ### Table of content
 
