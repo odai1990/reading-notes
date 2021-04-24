@@ -72,3 +72,5 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [MUSTACHE and FLEXBOX](read3.md) 
  * [CSS GRID](read4.md) 
  * [Heroku Deployment](read5.md) 
+ * [Node, Express, and APIs](read6.md) 
+ * [APIs continued](read7.md) 
