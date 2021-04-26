@@ -74,3 +74,4 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Heroku Deployment](read5.md) 
  * [Node, Express, and APIs](read6.md) 
  * [APIs continued](read7.md) 
+ * [SQL](read8.md) 
