@@ -76,4 +76,11 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [APIs continued](read7.md) 
  * [SQL](read8.md) 
  * [Refactoring](read9.md) 
- * [THE CALL STACK](read10.md) 
+ * [EJS](read11.md) 
+ * [Components](read12.md) 
+ * [Update/Delete](read13.md) 
+
+ * [DB Normalization](read14a.md) 
+ * [Project Ideas & APIs](read14b.md) 
+
+ * [Diversity and Inclusion](read15.md) 
