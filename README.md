@@ -3,7 +3,7 @@
 # Reading Notes
 
 
-## this repo is to document and highlight the knowldge wich gained through the full-stack bootcamp with code fellows/
+### this repo is to document and highlight the knowldge wich gained through the full-stack bootcamp with code fellows.
 
 #### These are my daily reading assignments for Code Fellows Introduction to Software development Course. in this way im putting my skills to review and remmbering what I am learning in a better way.
 
