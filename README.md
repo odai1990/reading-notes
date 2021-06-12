@@ -103,5 +103,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Reading and Writing Files in Python](reading_3.md)
  * [Classes and Objects](reading_4.md)
  * [Linked Lists](reading_5.md)
+ * [Game of Greed 1](reading_6.md)
 
  
