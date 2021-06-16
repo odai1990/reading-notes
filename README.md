@@ -107,5 +107,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Game of Greed 2](reading_7.md)
  * [Game of Greed 3](reading_8.md)
  * [Game of Greed 4](reading_9.md)
+ * [Stacks and Queues](reading_10.md)
 
  
