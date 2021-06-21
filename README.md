@@ -110,5 +110,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Stacks and Queues](reading_10.md)
  * [Data Analysis Numpy & Jupyter Lab](reading_11.md)
  * [Data Analysis pandas](reading_12.md)
+ * [Data Analysis Linear Regressions](reading_13.md)
 
  
