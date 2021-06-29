@@ -116,5 +116,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Machine Learning](reading_16.md)
  * [Web Scraping](reading_17.md)
  * [Cryptography](reading_18.md)
+ * [Automation](reading_19.md)
 
  
