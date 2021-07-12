@@ -119,5 +119,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Automation](reading_19.md)
  * [Django](reading_26.md)
  * [Django Models](reading_27.md)
+ * [Django Forms](reading_28.md)
 
  
