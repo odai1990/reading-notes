@@ -123,5 +123,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Django Custom User](reading_29.md)
  * [Hashtables](reading_30.md)
  * [Django REST Framework & Docker](reading_31.md)
+ * [Permissions & Postgresql](reading_32.md)
 
  
