@@ -125,5 +125,6 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Django REST Framework & Docker](reading_31.md)
  * [Permissions & Postgresql](reading_32.md)
  * [Authentication & Production Server](reading_33.md)
+ * [API Deployment](reading_34.md)
 
  
