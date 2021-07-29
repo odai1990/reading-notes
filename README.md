@@ -126,5 +126,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [Permissions & Postgresql](reading_32.md)
  * [Authentication & Production Server](reading_33.md)
  * [API Deployment](reading_34.md)
+ * [DSA Review](reading_35.md)
+ * [Graphs](reading_36.md)
 
  

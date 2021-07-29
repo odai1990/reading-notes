@@ -1,3 +1,4 @@
+# Read 34
 # Django Settings: Best practices
 - Keep settings in environment variables.
 - Write default values for production configuration (excluding secret keys and tokens).
