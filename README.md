@@ -132,5 +132,7 @@ My name is ODAI i'm 30 years old, graduated from philadelphia university, i'm a 
  * [React.js 2](reading_38.md)
  * [React.js 3](reading_39.md)
  * [React.js 4](reading_40.md)
+ * [Pythonisms](reading_41.md)
+ * [Ethis](reading_42.md)
 
  
